@@ -61,7 +61,8 @@ We realized how difficult it is to find **reliable information tailored to oneâ€
 
 ##  Architecture Diagram
 
-<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/82ecffcf-9eb6-42a0-8506-4d6f5ffb1f12" />
+<img width="937" height="812" alt="image" src="https://github.com/user-attachments/assets/282d079a-ca4f-4a11-a6fd-9d0eeb366647" />
+
 
 
 
