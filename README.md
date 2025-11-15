@@ -140,7 +140,7 @@ You can also verify its status in the AWS SageMaker Console → Endpoints sectio
 
 ## What still doesn't work correctly
 **InvokeEndpoint Error** : 
-We attempted to deploy our model using SageMaker and received a successful output in the terminal. However, when we try to call the endpoint, we encounter a runtime error, as shown below:
+We attempted to deploy our model using SageMaker and received a successful output in the terminal, indicating that the deployment was completed successfully. However, when we try to call the endpoint, we encounter a runtime error, as shown below:
 <img width="1231" height="157" alt="image" src="https://github.com/user-attachments/assets/f61d9b6a-48b4-4f63-a70b-9d9beec7f47c" />
 We would greatly appreciate your guidance and contribution on this issue.
 
