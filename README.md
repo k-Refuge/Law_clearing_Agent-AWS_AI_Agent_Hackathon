@@ -60,8 +60,7 @@ We realized how difficult it is to find **reliable information tailored to oneâ€
 ---
 
 ##  Architecture Diagram
-
-<img width="904" height="830" alt="image" src="https://github.com/user-attachments/assets/46cafcc6-f873-47dd-8165-be4bb6c186ab" />
+![Architecture Diagram](AgentArchitecture.jpg)
 
 
 
