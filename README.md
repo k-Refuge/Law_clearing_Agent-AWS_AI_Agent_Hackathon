@@ -60,7 +60,7 @@ We realized how difficult it is to find **reliable information tailored to oneâ€
 ---
 
 ##  Architecture Diagram
-![Architecture Diagram](AgentArchitecture.jpg)
+![Architecture Diagram](AgentArchitechture.jpg)
 
 
 
